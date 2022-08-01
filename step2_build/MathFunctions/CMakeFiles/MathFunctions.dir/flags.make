@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/mars/cmake_test/step2_build -I/home/mars/cmake_test/step2/MathFunctions
 
 CXX_FLAGS = -std=gnu++11
 

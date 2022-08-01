@@ -92,7 +92,6 @@ Tutorial_EXTERNAL_OBJECTS =
 
 Tutorial: CMakeFiles/Tutorial.dir/tutorial.cxx.o
 Tutorial: CMakeFiles/Tutorial.dir/build.make
-Tutorial: MathFunctions/libMathFunctions.a
 Tutorial: CMakeFiles/Tutorial.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/mars/cmake_test/step2_build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Tutorial"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Tutorial.dir/link.txt --verbose=$(VERBOSE)

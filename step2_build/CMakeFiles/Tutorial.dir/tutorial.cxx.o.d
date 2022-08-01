@@ -136,5 +136,4 @@ CMakeFiles/Tutorial.dir/tutorial.cxx.o: \
  /usr/include/bits/mathcalls-helper-functions.h \
  /usr/include/bits/mathcalls.h /usr/include/bits/mathcalls-narrow.h \
  /usr/include/bits/iscanonical.h \
- /home/mars/cmake_test/step2_build/TutorialConfig.h \
- /home/mars/cmake_test/step2/MathFunctions/MathFunctions.h
+ /home/mars/cmake_test/step2_build/TutorialConfig.h
