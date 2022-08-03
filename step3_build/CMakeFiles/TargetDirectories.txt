@@ -1,6 +1,6 @@
 /home/mars/cmake_test/step3_build/CMakeFiles/Tutorial.dir
 /home/mars/cmake_test/step3_build/CMakeFiles/edit_cache.dir
 /home/mars/cmake_test/step3_build/CMakeFiles/rebuild_cache.dir
-/home/mars/cmake_test/step3_build/bin/CMakeFiles/Math.dir
-/home/mars/cmake_test/step3_build/bin/CMakeFiles/edit_cache.dir
-/home/mars/cmake_test/step3_build/bin/CMakeFiles/rebuild_cache.dir
+/home/mars/cmake_test/step3_build/MathFunctions/CMakeFiles/Math.dir
+/home/mars/cmake_test/step3_build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/mars/cmake_test/step3_build/MathFunctions/CMakeFiles/rebuild_cache.dir

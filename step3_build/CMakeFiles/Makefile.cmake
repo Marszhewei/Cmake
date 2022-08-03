@@ -121,11 +121,11 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/3.23.2/CMakeCXXCompiler.cmake"
   "TutorialConfig.h"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
-  "bin/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "MathFunctions/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Tutorial.dir/DependInfo.cmake"
-  "bin/CMakeFiles/Math.dir/DependInfo.cmake"
+  "MathFunctions/CMakeFiles/Math.dir/DependInfo.cmake"
   )

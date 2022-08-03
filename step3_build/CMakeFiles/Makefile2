@@ -64,38 +64,38 @@ CMAKE_BINARY_DIR = /home/mars/cmake_test/step3_build
 
 # The main recursive "all" target.
 all: CMakeFiles/Tutorial.dir/all
-all: bin/all
+all: MathFunctions/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
-preinstall: bin/preinstall
+preinstall: MathFunctions/preinstall
 .PHONY : preinstall
 
 # The main recursive "clean" target.
 clean: CMakeFiles/Tutorial.dir/clean
-clean: bin/clean
+clean: MathFunctions/clean
 .PHONY : clean
 
 #=============================================================================
-# Directory level rules for directory bin
+# Directory level rules for directory MathFunctions
 
 # Recursive "all" directory target.
-bin/all: bin/CMakeFiles/Math.dir/all
-.PHONY : bin/all
+MathFunctions/all: MathFunctions/CMakeFiles/Math.dir/all
+.PHONY : MathFunctions/all
 
 # Recursive "preinstall" directory target.
-bin/preinstall:
-.PHONY : bin/preinstall
+MathFunctions/preinstall:
+.PHONY : MathFunctions/preinstall
 
 # Recursive "clean" directory target.
-bin/clean: bin/CMakeFiles/Math.dir/clean
-.PHONY : bin/clean
+MathFunctions/clean: MathFunctions/CMakeFiles/Math.dir/clean
+.PHONY : MathFunctions/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/Tutorial.dir
 
 # All Build rule for target.
-CMakeFiles/Tutorial.dir/all: bin/CMakeFiles/Math.dir/all
+CMakeFiles/Tutorial.dir/all: MathFunctions/CMakeFiles/Math.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tutorial.dir/build.make CMakeFiles/Tutorial.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tutorial.dir/build.make CMakeFiles/Tutorial.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/mars/cmake_test/step3_build/CMakeFiles --progress-num=3,4 "Built target Tutorial"
@@ -118,30 +118,30 @@ CMakeFiles/Tutorial.dir/clean:
 .PHONY : CMakeFiles/Tutorial.dir/clean
 
 #=============================================================================
-# Target rules for target bin/CMakeFiles/Math.dir
+# Target rules for target MathFunctions/CMakeFiles/Math.dir
 
 # All Build rule for target.
-bin/CMakeFiles/Math.dir/all:
-	$(MAKE) $(MAKESILENT) -f bin/CMakeFiles/Math.dir/build.make bin/CMakeFiles/Math.dir/depend
-	$(MAKE) $(MAKESILENT) -f bin/CMakeFiles/Math.dir/build.make bin/CMakeFiles/Math.dir/build
+MathFunctions/CMakeFiles/Math.dir/all:
+	$(MAKE) $(MAKESILENT) -f MathFunctions/CMakeFiles/Math.dir/build.make MathFunctions/CMakeFiles/Math.dir/depend
+	$(MAKE) $(MAKESILENT) -f MathFunctions/CMakeFiles/Math.dir/build.make MathFunctions/CMakeFiles/Math.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/mars/cmake_test/step3_build/CMakeFiles --progress-num=1,2 "Built target Math"
-.PHONY : bin/CMakeFiles/Math.dir/all
+.PHONY : MathFunctions/CMakeFiles/Math.dir/all
 
 # Build rule for subdir invocation for target.
-bin/CMakeFiles/Math.dir/rule: cmake_check_build_system
+MathFunctions/CMakeFiles/Math.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/mars/cmake_test/step3_build/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bin/CMakeFiles/Math.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 MathFunctions/CMakeFiles/Math.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/mars/cmake_test/step3_build/CMakeFiles 0
-.PHONY : bin/CMakeFiles/Math.dir/rule
+.PHONY : MathFunctions/CMakeFiles/Math.dir/rule
 
 # Convenience name for target.
-Math: bin/CMakeFiles/Math.dir/rule
+Math: MathFunctions/CMakeFiles/Math.dir/rule
 .PHONY : Math
 
 # clean rule for target.
-bin/CMakeFiles/Math.dir/clean:
-	$(MAKE) $(MAKESILENT) -f bin/CMakeFiles/Math.dir/build.make bin/CMakeFiles/Math.dir/clean
-.PHONY : bin/CMakeFiles/Math.dir/clean
+MathFunctions/CMakeFiles/Math.dir/clean:
+	$(MAKE) $(MAKESILENT) -f MathFunctions/CMakeFiles/Math.dir/build.make MathFunctions/CMakeFiles/Math.dir/clean
+.PHONY : MathFunctions/CMakeFiles/Math.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

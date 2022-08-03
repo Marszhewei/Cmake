@@ -44,7 +44,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/mars/cmake_test/step3_build/bin/cmake_install.cmake")
+  include("/home/mars/cmake_test/step3_build/MathFunctions/cmake_install.cmake")
 
 endif()
 

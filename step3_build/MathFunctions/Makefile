@@ -87,14 +87,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/mars/cmake_test/step3_build && $(CMAKE_COMMAND) -E cmake_progress_start /home/mars/cmake_test/step3_build/CMakeFiles /home/mars/cmake_test/step3_build/bin//CMakeFiles/progress.marks
-	cd /home/mars/cmake_test/step3_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bin/all
+	cd /home/mars/cmake_test/step3_build && $(CMAKE_COMMAND) -E cmake_progress_start /home/mars/cmake_test/step3_build/CMakeFiles /home/mars/cmake_test/step3_build/MathFunctions//CMakeFiles/progress.marks
+	cd /home/mars/cmake_test/step3_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 MathFunctions/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/mars/cmake_test/step3_build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/mars/cmake_test/step3_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bin/clean
+	cd /home/mars/cmake_test/step3_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 MathFunctions/clean
 .PHONY : clean
 
 # The main clean target
@@ -103,12 +103,12 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/mars/cmake_test/step3_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bin/preinstall
+	cd /home/mars/cmake_test/step3_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 MathFunctions/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/mars/cmake_test/step3_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bin/preinstall
+	cd /home/mars/cmake_test/step3_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 MathFunctions/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
@@ -117,17 +117,17 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
-bin/CMakeFiles/Math.dir/rule:
-	cd /home/mars/cmake_test/step3_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bin/CMakeFiles/Math.dir/rule
-.PHONY : bin/CMakeFiles/Math.dir/rule
+MathFunctions/CMakeFiles/Math.dir/rule:
+	cd /home/mars/cmake_test/step3_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 MathFunctions/CMakeFiles/Math.dir/rule
+.PHONY : MathFunctions/CMakeFiles/Math.dir/rule
 
 # Convenience name for target.
-Math: bin/CMakeFiles/Math.dir/rule
+Math: MathFunctions/CMakeFiles/Math.dir/rule
 .PHONY : Math
 
 # fast build rule for target.
 Math/fast:
-	cd /home/mars/cmake_test/step3_build && $(MAKE) $(MAKESILENT) -f bin/CMakeFiles/Math.dir/build.make bin/CMakeFiles/Math.dir/build
+	cd /home/mars/cmake_test/step3_build && $(MAKE) $(MAKESILENT) -f MathFunctions/CMakeFiles/Math.dir/build.make MathFunctions/CMakeFiles/Math.dir/build
 .PHONY : Math/fast
 
 mysqrt.o: mysqrt.cxx.o
@@ -135,7 +135,7 @@ mysqrt.o: mysqrt.cxx.o
 
 # target to build an object file
 mysqrt.cxx.o:
-	cd /home/mars/cmake_test/step3_build && $(MAKE) $(MAKESILENT) -f bin/CMakeFiles/Math.dir/build.make bin/CMakeFiles/Math.dir/mysqrt.cxx.o
+	cd /home/mars/cmake_test/step3_build && $(MAKE) $(MAKESILENT) -f MathFunctions/CMakeFiles/Math.dir/build.make MathFunctions/CMakeFiles/Math.dir/mysqrt.cxx.o
 .PHONY : mysqrt.cxx.o
 
 mysqrt.i: mysqrt.cxx.i
@@ -143,7 +143,7 @@ mysqrt.i: mysqrt.cxx.i
 
 # target to preprocess a source file
 mysqrt.cxx.i:
-	cd /home/mars/cmake_test/step3_build && $(MAKE) $(MAKESILENT) -f bin/CMakeFiles/Math.dir/build.make bin/CMakeFiles/Math.dir/mysqrt.cxx.i
+	cd /home/mars/cmake_test/step3_build && $(MAKE) $(MAKESILENT) -f MathFunctions/CMakeFiles/Math.dir/build.make MathFunctions/CMakeFiles/Math.dir/mysqrt.cxx.i
 .PHONY : mysqrt.cxx.i
 
 mysqrt.s: mysqrt.cxx.s
@@ -151,7 +151,7 @@ mysqrt.s: mysqrt.cxx.s
 
 # target to generate assembly for a file
 mysqrt.cxx.s:
-	cd /home/mars/cmake_test/step3_build && $(MAKE) $(MAKESILENT) -f bin/CMakeFiles/Math.dir/build.make bin/CMakeFiles/Math.dir/mysqrt.cxx.s
+	cd /home/mars/cmake_test/step3_build && $(MAKE) $(MAKESILENT) -f MathFunctions/CMakeFiles/Math.dir/build.make MathFunctions/CMakeFiles/Math.dir/mysqrt.cxx.s
 .PHONY : mysqrt.cxx.s
 
 # Help Target

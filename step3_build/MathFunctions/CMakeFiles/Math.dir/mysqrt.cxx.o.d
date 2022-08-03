@@ -1,4 +1,4 @@
-bin/CMakeFiles/Math.dir/mysqrt.cxx.o: \
+MathFunctions/CMakeFiles/Math.dir/mysqrt.cxx.o: \
  /home/mars/cmake_test/step3/MathFunctions/mysqrt.cxx \
  /usr/include/stdc-predef.h /usr/include/c++/12.1.0/iostream \
  /usr/include/c++/12.1.0/x86_64-pc-linux-gnu/bits/c++config.h \

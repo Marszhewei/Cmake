@@ -13,7 +13,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/mars/cmake_test/step3_build/bin/CMakeFiles/Math.dir/DependInfo.cmake"
+  "/home/mars/cmake_test/step3_build/MathFunctions/CMakeFiles/Math.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

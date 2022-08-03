@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/mars/cmake_test/step3/MathFunctions/mysqrt.cxx" "bin/CMakeFiles/Math.dir/mysqrt.cxx.o" "gcc" "bin/CMakeFiles/Math.dir/mysqrt.cxx.o.d"
+  "/home/mars/cmake_test/step3/MathFunctions/mysqrt.cxx" "MathFunctions/CMakeFiles/Math.dir/mysqrt.cxx.o" "gcc" "MathFunctions/CMakeFiles/Math.dir/mysqrt.cxx.o.d"
   )
 
 # Targets to which this target links.

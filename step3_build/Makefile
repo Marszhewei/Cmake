@@ -139,7 +139,7 @@ Math: cmake_check_build_system
 
 # fast build rule for target.
 Math/fast:
-	$(MAKE) $(MAKESILENT) -f bin/CMakeFiles/Math.dir/build.make bin/CMakeFiles/Math.dir/build
+	$(MAKE) $(MAKESILENT) -f MathFunctions/CMakeFiles/Math.dir/build.make MathFunctions/CMakeFiles/Math.dir/build
 .PHONY : Math/fast
 
 tutorial.o: tutorial.cxx.o
