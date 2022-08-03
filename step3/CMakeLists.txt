@@ -47,7 +47,7 @@ target_link_libraries(Tutorial PUBLIC MathFunctions)
 
 
 if(USE_MYMATH)
-    add_subdirectory(${PROJECT_SOURCE_DIR}/MathFunctions bin)
+    add_subdirectory(${PROJECT_SOURCE_DIR}/MathFunctions)
     list(APPEND EXTRA_LIBS Math)
 endif()
 add_executable(Tutorial tutorial.cxx)
