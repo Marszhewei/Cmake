@@ -1,0 +1,4 @@
+/home/mars/cmake_test/step4_test/bin/Tutorial
+/home/mars/cmake_test/step4_test/include/TutorialConfig.h
+/home/mars/cmake_test/step4_test/lib/libMathFunctions.a
+/home/mars/cmake_test/step4_test/include/MathFunctions.h
