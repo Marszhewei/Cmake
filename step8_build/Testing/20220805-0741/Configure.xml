@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20220805-0741-Experimental"
+	Name="linux"
+	Generator="ctest-3.23.2"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="12.1.0"
+	OSName="Linux"
+	Hostname="linux"
+	OSRelease="5.15.57-2-MANJARO"
+	OSVersion="#1 SMP PREEMPT Mon Jul 25 01:32:51 UTC 2022"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="165"
+	ProcessorCacheSize="16384"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="10239"
+	TotalPhysicalMemory="15901"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4370.26"
+	>
+	<Configure>
+		<StartDateTime>Aug 05 15:41 CST</StartDateTime>
+		<StartConfigureTime>1659685273</StartConfigureTime>
+		<ConfigureCommand>"/usr/bin/cmake" "/home/mars/Projects/VscodeWorkspace/cmake_test/step8"</ConfigureCommand>
+		<Log>-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mars/Projects/VscodeWorkspace/cmake_test/step8_build
+</Log>
+		<ConfigureStatus>0</ConfigureStatus>
+		<EndDateTime>Aug 05 15:41 CST</EndDateTime>
+		<EndConfigureTime>1659685273</EndConfigureTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Configure>
+</Site>
