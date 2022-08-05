@@ -1,0 +1,9 @@
+/home/mars/Projects/VscodeWorkspace/cmake_test/install/lib/libMathFunctions.so
+/home/mars/Projects/VscodeWorkspace/cmake_test/install/lib/libSqrtLibrary.a
+/home/mars/Projects/VscodeWorkspace/cmake_test/install/include/MathFunctions.h
+/home/mars/Projects/VscodeWorkspace/cmake_test/install/bin/Tutorial
+/home/mars/Projects/VscodeWorkspace/cmake_test/install/include/TutorialConfig.h
+/home/mars/Projects/VscodeWorkspace/cmake_test/install/lib/cmake/MathFunctions/MathFunctionsTargets.cmake
+/home/mars/Projects/VscodeWorkspace/cmake_test/install/lib/cmake/MathFunctions/MathFunctionsTargets-noconfig.cmake
+/home/mars/Projects/VscodeWorkspace/cmake_test/install/lib/cmake/MathFunctions/MathFunctionsConfig.cmake
+/home/mars/Projects/VscodeWorkspace/cmake_test/install/lib/cmake/MathFunctions/MathFunctionsConfigVersion.cmake
