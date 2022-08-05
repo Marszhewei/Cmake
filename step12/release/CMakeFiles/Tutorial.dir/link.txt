@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/Tutorial.dir/tutorial.cxx.o -o Tutorial  -Wl,-rpath,/home/mars/Projects/VscodeWorkspace/cmake_test/step12/release: libMathFunctions.so.1.0.0 

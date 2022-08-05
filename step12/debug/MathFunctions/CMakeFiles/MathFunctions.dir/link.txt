@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libMathFunctionsd.so.1 -o ../libMathFunctionsd.so.1.0.0 CMakeFiles/MathFunctions.dir/MathFunctions.cxx.o  ../libSqrtLibraryd.a 

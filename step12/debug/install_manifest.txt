@@ -1,0 +1,11 @@
+/home/mars/Projects/VscodeWorkspace/cmake_test/step12/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/lib/libMathFunctionsd.so.1.0.0
+/home/mars/Projects/VscodeWorkspace/cmake_test/step12/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/lib/libMathFunctionsd.so.1
+/home/mars/Projects/VscodeWorkspace/cmake_test/step12/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/lib/libMathFunctionsd.so
+/home/mars/Projects/VscodeWorkspace/cmake_test/step12/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/lib/libSqrtLibraryd.a
+/home/mars/Projects/VscodeWorkspace/cmake_test/step12/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/include/MathFunctions.h
+/home/mars/Projects/VscodeWorkspace/cmake_test/step12/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/bin/Tutoriald
+/home/mars/Projects/VscodeWorkspace/cmake_test/step12/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/include/TutorialConfig.h
+/home/mars/Projects/VscodeWorkspace/cmake_test/step12/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/lib/cmake/MathFunctions/MathFunctionsTargets.cmake
+/home/mars/Projects/VscodeWorkspace/cmake_test/step12/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/lib/cmake/MathFunctions/MathFunctionsTargets-debug.cmake
+/home/mars/Projects/VscodeWorkspace/cmake_test/step12/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/lib/cmake/MathFunctions/MathFunctionsConfig.cmake
+/home/mars/Projects/VscodeWorkspace/cmake_test/step12/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/lib/cmake/MathFunctions/MathFunctionsConfigVersion.cmake
