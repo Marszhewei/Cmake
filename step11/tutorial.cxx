@@ -15,7 +15,7 @@ int main(int argc, char* argv[])
     std::cout << "Usage: " << argv[0] << " number" << std::endl;
     return 1;
   }
-
+  
   // convert input to double
   const double inputValue = std::stod(argv[1]);
 
