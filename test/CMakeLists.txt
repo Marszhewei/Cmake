@@ -2,6 +2,8 @@ cmake_minimum_required(VERSION 3.10)
 
 project(testinstall)
 
+set(CMAKE_BUILD_TYPE Debug)
+
 # add_library(Math SHARED IMPORTED)
 # set_property(TARGET Math PROPERTY
 #                 IMPORTED_LOCATION "/home/mars/Projects/VscodeWorkspace/cmake_test/install/lib/libMathFunctions.so")

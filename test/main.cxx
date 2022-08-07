@@ -2,8 +2,25 @@
 #include <string>
 #include "MathFunctions.h"
 
+
+void test(void)
+{
+    for (int i = 0; i < 5; ++i)
+    {
+        std::cout << "this is: " << i << std::endl;
+    }
+    std::cout << "end func" << std::endl;
+    return ;
+}
+
 int main(int argc, char** argv)
 {
+    std::cout << "hello" << std::endl;
+    for (int i = 0; i < 5; ++i)
+    {
+        std::cout << i << std::endl;
+    }
+    test();
     if (argc < 3)
     {
         std::cout << "error" << std::endl;
