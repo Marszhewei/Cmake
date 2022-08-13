@@ -1,0 +1,3 @@
+@PACKAGE_INIT@
+# for add export config
+include ( "${CMAKE_CURRENT_LIST_DIR}/MathTargets.cmake" )

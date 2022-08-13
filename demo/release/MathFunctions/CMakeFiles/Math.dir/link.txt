@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libMath.so.1 -o ../libMath.so.1.0.0 CMakeFiles/Math.dir/math_func.cpp.o  ../libSqrtLib.a 

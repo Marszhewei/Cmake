@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/res.dir/main.cpp.o -o resd  -Wl,-rpath,/home/mars/Projects/VscodeWorkspace/cmake/debug: libMathd.so.1.0.0 

@@ -1,0 +1,4 @@
+// get project version
+#define VERSION_MAJOR ${PROJECT_VERSION_MAJOR}
+#define VERSION_MINOR ${PROJECT_VERSION_MINOR}
+#cmakedefine BUILD_SHARED_LIBS

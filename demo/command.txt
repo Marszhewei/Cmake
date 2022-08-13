@@ -1,0 +1,24 @@
+mkdir build && cd build
+cmake ..
+make(cmake --build .)                                                            # build (in build dir)
+
+cmake --install . --prefix "/home/mars/Projects/VscodeWorkspace/cmake/install/"  # install (in build dir)
+
+ctest                                                                            # test exps (in build dir)
+
+cpack                                                                            # pack (in build dir)
+
+ctest [-VV] -D Experimental                                                      # for testing dashboard (in build dir)
+
+                                                                                 # https://my.cdash.org/index.php?project=CMakeTutorial
+
+mkdir debug && cd debug
+cmake -DCMAKE_BUILD_TYPE=Debug ..
+make(cmake --build .)                                                            # build debug version (in debug dir)
+
+mkdir release && cd release
+cmake -DCMAKE_BUILD_TYPE=Release ..
+make(cmake --build .)                                                            # build release version (in release dir)
+
+
+cpack --config MultiCPackConfig.cmake

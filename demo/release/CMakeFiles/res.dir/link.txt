@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/res.dir/main.cpp.o -o res  -Wl,-rpath,/home/mars/Projects/VscodeWorkspace/cmake/release: libMath.so.1.0.0 

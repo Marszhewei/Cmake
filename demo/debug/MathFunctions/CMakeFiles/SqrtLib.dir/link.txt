@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../libSqrtLibd.a CMakeFiles/SqrtLib.dir/my_sqrt.cpp.o
+/usr/bin/ranlib ../libSqrtLibd.a

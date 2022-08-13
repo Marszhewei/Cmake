@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Table.dir/make_table.cpp.o -o ../Table 

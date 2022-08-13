@@ -1,0 +1,11 @@
+/home/mars/Projects/VscodeWorkspace/cmake/_CPack_Packages/Linux/TZ/Demo-1.2.0-Linux/lib/libMathd.so.1.0.0
+/home/mars/Projects/VscodeWorkspace/cmake/_CPack_Packages/Linux/TZ/Demo-1.2.0-Linux/lib/libMathd.so.1
+/home/mars/Projects/VscodeWorkspace/cmake/_CPack_Packages/Linux/TZ/Demo-1.2.0-Linux/lib/libMathd.so
+/home/mars/Projects/VscodeWorkspace/cmake/_CPack_Packages/Linux/TZ/Demo-1.2.0-Linux/lib/libSqrtLibd.a
+/home/mars/Projects/VscodeWorkspace/cmake/_CPack_Packages/Linux/TZ/Demo-1.2.0-Linux/include/math_func.h
+/home/mars/Projects/VscodeWorkspace/cmake/_CPack_Packages/Linux/TZ/Demo-1.2.0-Linux/bin/resd
+/home/mars/Projects/VscodeWorkspace/cmake/_CPack_Packages/Linux/TZ/Demo-1.2.0-Linux/include/config.h
+/home/mars/Projects/VscodeWorkspace/cmake/_CPack_Packages/Linux/TZ/Demo-1.2.0-Linux/lib/cmake/Math/MathTargets.cmake
+/home/mars/Projects/VscodeWorkspace/cmake/_CPack_Packages/Linux/TZ/Demo-1.2.0-Linux/lib/cmake/Math/MathTargets-debug.cmake
+/home/mars/Projects/VscodeWorkspace/cmake/_CPack_Packages/Linux/TZ/Demo-1.2.0-Linux/lib/cmake/Math/MathConfig.cmake
+/home/mars/Projects/VscodeWorkspace/cmake/_CPack_Packages/Linux/TZ/Demo-1.2.0-Linux/lib/cmake/Math/MathConfigVersion.cmake
