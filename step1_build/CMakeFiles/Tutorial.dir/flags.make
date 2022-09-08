@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/mars/cmake_test/step1_build
+CXX_INCLUDES = -I/home/fetch150zy/Projects/Vscode/Cmake/step1_build
 
 CXX_FLAGS = -std=gnu++11
 

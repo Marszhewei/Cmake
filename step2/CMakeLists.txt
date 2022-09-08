@@ -47,9 +47,9 @@ target_link_libraries(Tutorial PUBLIC MathFunctions)
 
 
 if(USE_MYMATH)
-    add_subdirectory(./MathFunctions)
-    list(APPEND EXTRA_LIBS MathFunctions)
-    list(APPEND EXTRA_INCLUDES "${PROJECT_SOURCE_DIR}/MathFunctions")
+    add_subdirectory(./MathFunctions)		# 调用子目录下的CMakeLists.txt文件
+    list(APPEND EXTRA_LIBS MathFunctions)	# 添加库到变量中
+    list(APPEND EXTRA_INCLUDES "${PROJECT_SOURCE_DIR}/MathFunctions")	# 头文件路径
 endif()
 add_executable(Tutorial tutorial.cxx)
 target_include_directories(Tutorial PUBLIC
