@@ -1,4 +1,0 @@
-/home/mars/Projects/VscodeWorkspace/cmake_test/step7_build/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/bin/Tutorial
-/home/mars/Projects/VscodeWorkspace/cmake_test/step7_build/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/include/TutorialConfig.h
-/home/mars/Projects/VscodeWorkspace/cmake_test/step7_build/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/lib/libMathFunctions.a
-/home/mars/Projects/VscodeWorkspace/cmake_test/step7_build/_CPack_Packages/Linux/TZ/Tutorial-1.0-Linux/include/MathFunctions.h

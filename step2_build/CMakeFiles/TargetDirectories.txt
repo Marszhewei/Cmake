@@ -1,3 +1,0 @@
-/home/mars/cmake_test/step2_build/CMakeFiles/Tutorial.dir
-/home/mars/cmake_test/step2_build/CMakeFiles/edit_cache.dir
-/home/mars/cmake_test/step2_build/CMakeFiles/rebuild_cache.dir

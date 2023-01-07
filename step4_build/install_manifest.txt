@@ -1,4 +1,0 @@
-/home/mars/cmake_test/program/bin/Tutorial
-/home/mars/cmake_test/program/include/TutorialConfig.h
-/home/mars/cmake_test/program/lib/libMathFunctions.a
-/home/mars/cmake_test/program/include/MathFunctions.h

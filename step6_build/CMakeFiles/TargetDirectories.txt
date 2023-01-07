@@ -1,7 +1,0 @@
-/home/mars/Projects/VscodeWorkspace/cmake_test/step6_build/CMakeFiles/Tutorial.dir
-/home/mars/Projects/VscodeWorkspace/cmake_test/step6_build/CMakeFiles/edit_cache.dir
-/home/mars/Projects/VscodeWorkspace/cmake_test/step6_build/CMakeFiles/rebuild_cache.dir
-/home/mars/Projects/VscodeWorkspace/cmake_test/step6_build/MathFunctions/CMakeFiles/MakeTable.dir
-/home/mars/Projects/VscodeWorkspace/cmake_test/step6_build/MathFunctions/CMakeFiles/MathFunctions.dir
-/home/mars/Projects/VscodeWorkspace/cmake_test/step6_build/MathFunctions/CMakeFiles/edit_cache.dir
-/home/mars/Projects/VscodeWorkspace/cmake_test/step6_build/MathFunctions/CMakeFiles/rebuild_cache.dir
